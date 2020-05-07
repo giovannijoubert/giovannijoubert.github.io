@@ -9535,3 +9535,18 @@ textarea.form-control {
       
 
     }
+
+    .order-md-last{
+      border-radius: 20px;
+    }
+
+    .img-about .img{
+      border-radius: 20px;
+    }
+
+
+    .counter-wrap .bg-primary{
+
+      border-top-right-radius: 20px;
+      border-bottom-right-radius: 20px;
+    }
